@@ -1,0 +1,2 @@
+# arrayeveryPolyfill
+Created with CodeSandbox
